@@ -1,0 +1,12 @@
+# ignore the sound files
+*.mp3
+*.wav
+./sfx
+./sfx_beep/*
+
+# ignore the OPC server
+opc.py
+
+# misc
+.idea
+./__pycache__
